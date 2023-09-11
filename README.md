@@ -42,7 +42,7 @@ Day 3:
   - Multi-GPU/-node with PyTorch DDP 
   - Q&A
 
-All necessary information, links and content for the course can be found on the [course website](https://indico.truba.gov.tr/event/133/).
+All necessary information, links, and content for the course can be found on the [course website](https://indico.truba.gov.tr/event/133/).
 
 <a name="certificate"></a>
 ## Certificate
