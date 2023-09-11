@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Information](#information)
-3. [Certificates](#certificates)
+3. [Certificate](#certificate)
 
 <a name="descripton"></a>
 ## Description
@@ -44,9 +44,9 @@ Day 3:
 
 All necessary information, links and content for the course can be found on the [course website](https://indico.truba.gov.tr/event/133/).
 
-<a name="certificates"></a>
-## Certificates
+<a name="certificate"></a>
+## Certificate
 
-The certificate for the workshop can be found bellow:
+The certificate for the workshop can be found below:
 
 - ["Mastering Transformers: From Building Blocks to Real-World Applications" - NCC Türkiye and NCC Czech Republic]() (Issued On: September 2023)
