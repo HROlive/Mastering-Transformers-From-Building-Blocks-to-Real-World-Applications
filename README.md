@@ -49,4 +49,4 @@ All necessary information, links, and content for the course can be found on the
 
 The certificate for the workshop can be found below:
 
-- ["Mastering Transformers: From Building Blocks to Real-World Applications" - NCC Türkiye and NCC Czech Republic]() (Issued On: September 2023)
+- ["Mastering Transformers: From Building Blocks to Real-World Applications" - NCC Türkiye and NCC Czech Republic](https://github.com/HROlive/Mastering-Transformers-From-Building-Blocks-to-Real-World-Applications/blob/main/images/certificate.pdf) (Issued On: September 2023)
